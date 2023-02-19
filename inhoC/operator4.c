@@ -2,6 +2,7 @@
 
 int main() {
 	int kor = 50, eng = 40, math = 60;
+
 	// ÇÕ°è : 00
 	// Æò±Õ : 00 
 	int s = kor + eng + math;
